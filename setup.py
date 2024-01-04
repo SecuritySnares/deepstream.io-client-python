@@ -22,7 +22,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        "requests==2.18.4"
+        "requests==2.31.0"
     ],
     setup_requires=[
         'pytest-runner'
